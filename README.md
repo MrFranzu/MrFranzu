@@ -1,9 +1,8 @@
-# [MrFranzu]
+## MrFranzu
+ 
+# A passionate developer with small experience in various programming languages and frameworks. 
 
-**Brief Description:**  
-A passionate developer with experience in various programming languages and frameworks. Skilled in building efficient and scalable applications.
-
-## Languages and Tools
+## Languages used
 <p align="left">
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
@@ -15,8 +14,13 @@ A passionate developer with experience in various programming languages and fram
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 </p>
 
-## GitHub Stats
+## Hobbies
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://myanimelist.net/"><img src="https://img.shields.io/badge/Anime-FF9E0F?style=for-the-badge&logo=anime&logoColor=white" alt="Anime"></a>
+  <a href="https://www.mangaupdates.com/"><img src="https://img.shields.io/badge/Manga/Manhwa-FF9E0F?style=for-the-badge&logo=manga&logoColor=white" alt="Manga/Manhwa"></a>
+  <a href="https://www.donghuaworld.com/"><img src="https://img.shields.io/badge/Donghua-FF9E0F?style=for-the-badge&logo=donghua&logoColor=white" alt="Donghua"></a>
+  <a href="https://www.jpopasia.com/"><img src="https://img.shields.io/badge/JPop-FF9E0F?style=for-the-badge&logo=jpop&logoColor=white" alt="JPop"></a>
 </p>
+
+
+
