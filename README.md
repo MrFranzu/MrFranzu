@@ -14,13 +14,15 @@
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 </p>
 
-## Hobbies
-<p align="left">
-  <a href="https://myanimelist.net/"><img src="https://img.shields.io/badge/Anime-FF9E0F?style=for-the-badge&logo=anime&logoColor=white" alt="Anime"></a>
-  <a href="https://www.mangaupdates.com/"><img src="https://img.shields.io/badge/Manga/Manhwa-FF9E0F?style=for-the-badge&logo=manga&logoColor=white" alt="Manga/Manhwa"></a>
-  <a href="https://www.donghuaworld.com/"><img src="https://img.shields.io/badge/Donghua-FF9E0F?style=for-the-badge&logo=donghua&logoColor=white" alt="Donghua"></a>
-  <a href="https://www.jpopasia.com/"><img src="https://img.shields.io/badge/JPop-FF9E0F?style=for-the-badge&logo=jpop&logoColor=white" alt="JPop"></a>
-</p>
+## Weeb 
+
+- 🍥 **Anime**
+- 📚 **Manga/Manhwa**
+- 🐉 **Donghua**
+- 🎵 **Jpop**
+- <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
+
+
 
 
 
