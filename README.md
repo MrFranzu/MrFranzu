@@ -14,7 +14,7 @@
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 </p>
 
-## Weeb <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
+## Weeb     <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
 
 - 🍥 **Anime**
 - 📚 **Manga/Manhwa**
