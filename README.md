@@ -19,7 +19,7 @@
 
 ---
 
-## 🎌 Weeb Life
+## 🎌 Weeb 
 
 <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
 
