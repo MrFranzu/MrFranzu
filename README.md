@@ -1,6 +1,6 @@
 # 🌟 アミエル・フランツ・バグイ
 
-### A passionate developer with a growing expertise in various programming languages and frameworks. 
+### A passionate developer with small experience in various programming languages and frameworks. 
 
 ---
 
