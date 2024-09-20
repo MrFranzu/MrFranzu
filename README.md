@@ -1,8 +1,11 @@
-## MrFranzu
- 
-# A passionate developer with small experience in various programming languages and frameworks. 
+# 🌟 アミエル・フランツ・バグイ
 
-## Languages used
+### A passionate developer with a growing expertise in various programming languages and frameworks. 
+
+---
+
+## 🌐 Languages Used
+
 <p align="left">
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
@@ -14,17 +17,15 @@
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 </p>
 
-## Weeb
+---
+
+## 🎌 Weeb Life
 
 <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
 
-- 🍥 **Anime**
-- 📚 **Manga/Manhwa**
-- 🐉 **Donghua**
-- 🎵 **Jpop**
+- 🍥 **Anime Enthusiast**
+- 📚 **Manga/Manhwa Lover**
+- 🐉 **Donghua Fan**
+- 🎵 **Jpop Addict**
 
-  
-
-
-
-
+---
