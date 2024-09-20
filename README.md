@@ -23,9 +23,9 @@
 
 <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
 
-- 🍥 **Anime Enthusiast**
-- 📚 **Manga/Manhwa Lover**
-- 🐉 **Donghua Fan**
-- 🎵 **Jpop Addict**
+- 🍥 **Anime**
+- 📚 **Manga/Manhwa**
+- 🐉 **Donghua**
+- 🎵 **Jpop**
 
 ---
