@@ -21,17 +21,13 @@
 
 ---
 
-## 🎌 **Culture**  
+## 🎌 **Cultured & Interests**  
+🎥 *Anime, Manga, Manhwa, Donghua*  
+🎵 *Jpop & Anime OSTs*  
 
 <div align="center">
   <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
 </div>  
-
-### 🎥 Interests:  
-- 🍥 **Anime**  
-- 📚 **Manga & Manhwa**  
-- 🐉 **Donghua**  
-- 🎵 **Jpop & Anime OSTs**  
 
 ---
 
@@ -39,12 +35,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrFranzu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFranzu&theme=tokyonight" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFranzu&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>  
 
 ---
 
-🔥 **Let's Connect & Collaborate!** 🚀  
+🔥 **Let's Connect & Collaborate!** 🚀 
