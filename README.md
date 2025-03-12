@@ -42,9 +42,6 @@
 ## 🔥 Contribution Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrFranzu&bg_color=1a1b27&color=ffffff&line=38bdae&point=ffffff&area=true&hide_border=true)
 
-## 📌 Pinned Repositories  
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=MrFranzu&repo=YourRepoName&theme=tokyonight)](https://github.com/MrFranzu/YourRepoName)
-
 ## 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=MrFranzu&label=Profile%20Views&color=blueviolet&style=flat-square)
 
