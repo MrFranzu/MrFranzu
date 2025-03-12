@@ -36,7 +36,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrFranzu&theme=tokyonight" alt="Profile Details" />
   
   <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrFranzu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrFranzu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFranzu&theme=tokyonight" alt="GitHub Streak" />
   
   <!-- Languages & Contributions -->
@@ -48,7 +48,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MrFranzu&theme=tokyonight&margin-w=15&column=7" alt="GitHub Trophies" />
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFranzu&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFranzu&bg_color=1a1b27&color=ffffff&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
   
   <!-- Commit Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFranzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
@@ -58,7 +58,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=MrFranzu&theme=tokyonight" alt="Commits Per Day" />
   
   <!-- Stars & Forks -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrFranzu&repo=YourActualRepoName&theme=tokyonight" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrFranzu&repo=YourRepoName&theme=tokyonight" alt="Pinned Repo" />
   
   <!-- Visitors Counter -->
   <img src="https://komarev.com/ghpvc/?username=MrFranzu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
