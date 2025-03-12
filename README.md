@@ -31,38 +31,22 @@
 
 ---
 
-<p align="center">
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrFranzu&theme=tokyonight" alt="Profile Details" />
-  
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrFranzu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFranzu&theme=tokyonight" alt="GitHub Streak" />
-  
-  <!-- Languages & Contributions -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFranzu&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrFranzu&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrFranzu&theme=tokyonight" alt="Most Commit Language" />
-  
-  <!-- Achievements & Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MrFranzu&theme=tokyonight&margin-w=15&column=7" alt="GitHub Trophies" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFranzu&bg_color=1a1b27&color=ffffff&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  
-  <!-- Commit Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFranzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-  
-  <!-- Issue & PR Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=MrFranzu&theme=tokyonight" alt="Issue Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=MrFranzu&theme=tokyonight" alt="Commits Per Day" />
-  
-  <!-- Stars & Forks -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrFranzu&repo=YourRepoName&theme=tokyonight" alt="Pinned Repo" />
-  
-  <!-- Visitors Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MrFranzu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+## 📊 GitHub Stats
+| Stats | Streak | Top Languages |
+|-------|--------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrFranzu&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrFranzu&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFranzu&layout=compact&theme=tokyonight) |
+
+## 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrFranzu&theme=tokyonight&margin-w=15&column=7)
+
+## 🔥 Contribution Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrFranzu&bg_color=1a1b27&color=ffffff&line=38bdae&point=ffffff&area=true&hide_border=true)
+
+## 📌 Pinned Repositories  
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=MrFranzu&repo=YourRepoName&theme=tokyonight)](https://github.com/MrFranzu/YourRepoName)
+
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=MrFranzu&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 ---
 
