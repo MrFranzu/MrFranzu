@@ -1,6 +1,6 @@
 # 🌟 アミエル・フランツ・バグイ
 
-### A passionate developer with small experience in various programming languages and frameworks. 
+### A passionate developer with some experience in various programming languages and frameworks.  
 
 ---
 
@@ -22,8 +22,8 @@
 ---
 
 ## 🎌 **Cultured & Interests**  
-🎥 *Anime, Manga, Manhwa, Donghua*  
-🎵 *Jpop & Anime OSTs*  
+- 🎥 Anime, Manga, Manhwa, Donghua  
+- 🎵 J-pop & Anime OSTs  
 
 <div align="center">
   <a href="https://myanimelist.net/profile/Leima_Znarf"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
@@ -33,37 +33,37 @@
 
 <p align="center">
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.netlify.app/api/cards/profile-details?username=MrFranzu&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrFranzu&theme=tokyonight" alt="Profile Details" />
   
   <!-- General Stats -->
-  <img src="https://github-readme-stats-netlify.app/api?username=MrFranzu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-netlify.app/?user=MrFranzu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrFranzu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFranzu&theme=tokyonight" alt="GitHub Streak" />
   
   <!-- Languages & Contributions -->
-  <img src="https://github-readme-stats-netlify.app/api/top-langs/?username=MrFranzu&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.netlify.app/api/cards/repos-per-language?username=MrFranzu&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.netlify.app/api/cards/most-commit-language?username=MrFranzu&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFranzu&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrFranzu&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrFranzu&theme=tokyonight" alt="Most Commit Language" />
   
   <!-- Achievements & Trophies -->
-  <img src="https://github-profile-trophy.netlify.app/?username=MrFranzu&theme=tokyonight&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrFranzu&theme=tokyonight&margin-w=15&column=7" alt="GitHub Trophies" />
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.netlify.app/graph?username=MrFranzu&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFranzu&theme=tokyo-night" alt="Activity Graph" />
   
   <!-- Commit Stats -->
-  <img src="https://github-profile-summary-cards.netlify.app/api/cards/productive-time?username=MrFranzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFranzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
   
   <!-- Issue & PR Stats -->
-  <img src="https://github-profile-summary-cards.netlify.app/api/cards/issues?username=MrFranzu&theme=tokyonight" alt="Issue Stats" />
-  <img src="https://github-profile-summary-cards.netlify.app/api/cards/commit-per-day?username=MrFranzu&theme=tokyonight" alt="Commits Per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=MrFranzu&theme=tokyonight" alt="Issue Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=MrFranzu&theme=tokyonight" alt="Commits Per Day" />
   
   <!-- Stars & Forks -->
-  <img src="https://github-readme-stats-netlify.app/api/pin/?username=MrFranzu&repo=YourRepoName&theme=tokyonight" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrFranzu&repo=YourActualRepoName&theme=tokyonight" alt="Pinned Repo" />
   
   <!-- Visitors Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MrFranzu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MrFranzu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-🔥 **Let's Connect & Collaborate!** 🚀 
+🔥 **Let's Connect & Collaborate!** 🚀  
